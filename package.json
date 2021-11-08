@@ -1,6 +1,6 @@
 {
-  "name": "custom-extension",
-  "version": "0.0.0",
+  "name": "jsreport-pdf-qpdf",
+  "version": "0.0.1",
   "description": "jsreport studio extension starter kit",
   "keywords": [
     "jsreport"
